@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard</title>
+</head>
+<body>
+
+<h2>Students Login Details</h2>
+
+<ul>
+{% for s in students %}
+    <li>{{ s[2] }} - {{ s[3] }}</li>
+{% endfor %}
+</ul>
+
+<h2>Transaction History</h2>
+
+<ul>
+{% for t in transactions %}
+    <li>{{ t[1] }} issued {{ t[2] }}</li>
+{% endfor %}
+</ul>
+
+</body>
+</html>
