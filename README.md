@@ -164,14 +164,10 @@ SECRET_KEY=your_secret_key
 
 ### 6️⃣ Run the Application
 
-```bash
-python app.py
-```
-
 Open your browser:
 
 ```
-http://127.0.0.1:5000
+https://library-management-system-823498055923.asia-southeast1.run.app 
 ```
 
 ---
@@ -180,7 +176,7 @@ http://127.0.0.1:5000
 
 > Add screenshots here after completing the project.
 
-- Home Page
+- Home Page  
 - Student Dashboard
 - Admin Dashboard
 - Book Search
@@ -243,4 +239,4 @@ Passionate about Python, Full-Stack Development, Business Analytics, and AI-powe
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
+Focus on Learning 
